@@ -1,10 +1,3 @@
----
-date: 2026-05-02 22:58:45
-created: 2026-05-02 11:34:30
-categories:
-  - Red Note
----
-
 ### Week One
 
 |                                                                                                                                                                                                                 |                                             |                         |                |               |                |
